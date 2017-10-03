@@ -1,0 +1,54 @@
+body {
+	background: rgb(217, 217, 217);
+	margin: 0;
+}
+
+#container {
+	width: 750px;
+	margin: 0 auto;
+	background: white;
+	padding: 15px;
+
+}
+
+h1 {
+	text-align: center;
+	background: rgb(12, 195, 149);
+	color: white;
+	margin: 0;
+	padding: 20px 0;
+	font-family: helvetica;
+}
+
+ul {
+	list-style-type: none;
+	text-align: center;
+
+}
+
+li {
+	display: inline;
+	margin: 15px;
+	font-size: 14px;
+	font-family: helvetica;
+}
+
+#maui {
+	width: 750px;
+	margin: 0 auto;
+	background: rgb(197, 222, 251);
+	color: black;
+}
+
+h2 {
+	text-align: center;
+	background: rgb(197, 222, 251);
+	color: black;
+	margin: 0;
+	padding: 20px;
+}
+
+p {
+	font-size: 14px;
+	font-family: helvetica;
+}

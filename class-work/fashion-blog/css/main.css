@@ -1,0 +1,33 @@
+body {
+	font-family: Lato;
+	color: #444444;
+	line-height: 1.5
+	width: 720px;
+	padding: 54px;
+	border-left: 6px solid #dddddd;
+	font-weight: 200;
+}
+
+h1 {
+	color: #dd0000;
+}
+
+h2 {
+	color: #cccccc;
+}
+
+.Brooklyn h3 {
+	color: #000000;
+	font-size: 30px;
+
+}
+
+.nav a {
+	color: #dddddd;
+	margin-right: 15px;
+}
+
+.continue a {
+	text-align: right;
+	color: #dd0000;
+}
