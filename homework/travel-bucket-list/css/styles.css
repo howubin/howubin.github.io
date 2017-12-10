@@ -33,11 +33,12 @@ li {
 	font-family: helvetica;
 }
 
-#maui {
+#maui, #reykjavik, #aspen {
 	width: 750px;
 	margin: 0 auto;
 	background: rgb(197, 222, 251);
 	color: black;
+	font-family: helvetica;
 }
 
 h2 {
@@ -48,7 +49,6 @@ h2 {
 	padding: 20px;
 }
 
-p {
+h3 {
 	font-size: 14px;
-	font-family: helvetica;
 }

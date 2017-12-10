@@ -30,4 +30,5 @@ h2 {
 .continue a {
 	text-align: right;
 	color: #dd0000;
+	text-decoration: none;
 }
